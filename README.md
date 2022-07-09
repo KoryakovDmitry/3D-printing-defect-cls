@@ -1,5 +1,7 @@
 # 3D-printing-defect-cls
 
+See results training in this link  
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoryakovDmitry/3D-printing-defect-cls/blob/main/3d_printing_defect_detection_report.ipynb)
 
 ## Download datasets to data folder
