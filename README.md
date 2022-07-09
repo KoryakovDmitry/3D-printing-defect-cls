@@ -12,4 +12,20 @@
 | DS_synth_bin | Generated synthetic photorealistic images of a 3D printed product using KeyShot software. This dataset to train model | [zip](https://drive.google.com/file/d/1HCczXj1-EDU2jm81H0m-TAoVwjWAGlxf/view?usp=sharing) |
 | defects_not_augmented_dataset | Real shots of the 3D printing process with and without defects. This dataset to train and validate model | [zip](https://drive.google.com/file/d/18_NKHORM69052--NmS-RSlHo6FJJHiTm/view?usp=sharing) |
 
+#### Examples
+
+##### SYNTH
+![exmpl 1](https://github.com/KoryakovDmitry/3D-printing-defect-cls/blob/main/docs/img.png)
+
+
+![exmpl 2](https://github.com/KoryakovDmitry/3D-printing-defect-cls/blob/main/docs/img_1.png)
+
+
+![exmpl 3](https://github.com/KoryakovDmitry/3D-printing-defect-cls/blob/main/docs/img_2.png)
+
+##### Process printing
+![exmpl 4](https://github.com/KoryakovDmitry/3D-printing-defect-cls/blob/main/docs/img_3.png)
+
+
+![exmpl 5](https://github.com/KoryakovDmitry/3D-printing-defect-cls/blob/main/docs/img_4.png)
 
