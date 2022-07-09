@@ -7,3 +7,6 @@ seaborn
 sklearn
 tqdm
 torchinfo
+mathutils
+future-fstrings
+bpy
