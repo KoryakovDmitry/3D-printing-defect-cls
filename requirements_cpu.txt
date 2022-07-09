@@ -9,4 +9,4 @@ tqdm
 torchinfo
 mathutils
 future-fstrings
-bpy
+# bpy
